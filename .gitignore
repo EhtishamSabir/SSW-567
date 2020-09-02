@@ -1,0 +1,7 @@
+# IDE
+.vscode
+*.code-workspace
+
+# Python
+*.pyc
+*.pyo
