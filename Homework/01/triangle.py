@@ -35,7 +35,4 @@ if __name__ == "__main__":
 
     print(classify_triangle(3, 4, 6))
 
-    print(classify_triangle(3, 4, 5))
-
-
-    
+    print(classify_triangle(3, 4, 5))    
