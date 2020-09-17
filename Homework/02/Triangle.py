@@ -13,14 +13,7 @@ import math
 
 
 def classifyTriangle(a, b, c):
-
-    if a > 200 or b > 200 or c > 200:
-        return 'Not a valid triangle'
-
-    if a <= 0 or b <= 0 or c <= 0:
-        return 'Not a valid triangle'
-
-    if (a > (b + c)) or (b > (a + c)) or (c > (a + b)):
+    if (a <= 0 or b <= 0 or c <= 0) or (a > 200 or b > 200 or c > 200) or (a > (b + c)) or (b > (a + c)) or (c > (a + b)):
         return 'Not a valid triangle'
 
     if a == b and b == a and b == c:
