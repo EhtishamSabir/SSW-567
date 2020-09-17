@@ -9,6 +9,9 @@ The primary goal of this file is to demonstrate a simple unittest implementation
 
 import unittest
 import math
+import sys
+
+sys.path.append("Homework/02/")
 
 from Triangle import classifyTriangle
 
