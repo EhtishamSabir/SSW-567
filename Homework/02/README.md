@@ -1,7 +1,5 @@
 # Homework 02: Legacy Classify Triangle Testing
 
-[![build status of master](https://travis-ci.org/Liam-Brew/SSW-567.svg?branch=master)](https://travis-ci.org/Liam-Brew/SSW-567)
-
 **Author**: Liam Brew
 
 **Date**: 16 September 2020
