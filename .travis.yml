@@ -4,5 +4,5 @@ python:
 
 # command to run tests
 script:
- - python -m unittest Homework/02/TestTriangle.py
+ - python -m unittest Homework/02/test_triangle.py
  - python -m unittest Homework/04/test_github_api.py
