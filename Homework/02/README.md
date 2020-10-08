@@ -26,25 +26,25 @@ I found this assignment to be interesting. While I had linting tool previously i
 
 ### Initial Static Analysis
 
-![Initial Static Analysis](..\..\src\Homework\02\initial_lint.png)
+![Initial Static Analysis](https://github.com/Liam-Brew/SSW-567/blob/master/src/Homework/02/initial_lint.png)
 
 ### Final Static Analysis
 
-![Final Static Analysis](..\..\src\Homework\02\initial_lint.png)
+![Final Static Analysis](https://github.com/Liam-Brew/SSW-567/blob/master/src/Homework/02/final_lint.png)
 
 ### Initial Coverage Analysis
 
-![Initial Coverage Analysis](..\..\src\Homework\02\initial_coverage.png)
+![Initial Coverage Analysis](https://github.com/Liam-Brew/SSW-567/blob/master/src/Homework/02/initial_coverage.png)
 
 ### Final Coverage Analysis
 
-![Final Coverage Analysis](..\..\src\Homework\02\final_coverage.png)
+![Final Coverage Analysis](https://github.com/Liam-Brew/SSW-567/blob/master/src/Homework/02/final_coverage.png)
 
 ### HTML Coverage Report
 
-~Please disregard my virual environment's contribution to these metrics~
+Please disregard my virual environment's contribution to these metrics
 
-![HTML Coverage Report](..\..\src\Homework\02\coverage_html.png)
+![HTML Coverage Report](https://github.com/Liam-Brew/SSW-567/blob/master/src/Homework/02/coverage_html.png)
 
 ## Challenges
 
