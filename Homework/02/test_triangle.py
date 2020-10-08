@@ -1,12 +1,10 @@
 """Performs unit testing on triangle classification found in triangle.py."""
 
-from triangle import classify_triangle
 import unittest
 import math
 import sys
 
-sys.path.append("Homework/02/")
-
+from triangle import classify_triangle
 
 class TestTriangles(unittest.TestCase):
     def testValidTriangleA(self):
