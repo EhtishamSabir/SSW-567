@@ -5,9 +5,6 @@ import unittest
 import math
 import sys
 
-sys.path.append("Homework/02/")
-
-
 class TestTriangles(unittest.TestCase):
     def testValidTriangleA(self):
         self.assertEqual(classify_triangle(0, 0, 0),
