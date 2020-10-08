@@ -1,6 +1,6 @@
 """Performs unit testing on triangle classification found in triangle.py."""
 
-from triangle import classify_triangle
+from classify_triangle import classify_triangle
 import unittest
 import math
 import sys
