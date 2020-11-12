@@ -57,8 +57,6 @@ I believe that the Workload Model that most appropriately matches my testing pla
 
 ## Results
 
-## Output Data
-
 ### Tabulated Results
 
 ![Results](https://github.com/Liam-Brew/SSW-567/blob/master/src/Homework/10/results.png)
